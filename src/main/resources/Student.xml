@@ -1,0 +1,14 @@
+<students>
+    <student id="1">
+        <firstName>Ilya</firstName>
+        <secondName>Ignatovich</secondName>
+        <age>20</age>
+        <country>Belarus</country>
+    </student>
+    <student id="2">
+        <firstName>Matt</firstName>
+        <secondName>Stremoys</secondName>
+        <age>19</age>
+        <country>Belarus</country>
+    </student>
+</students>
